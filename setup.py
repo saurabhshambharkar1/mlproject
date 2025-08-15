@@ -6,5 +6,5 @@ setup(
     author="saurabh shambharkar",
     author_email="saurabhshambharkar2@gmail.com",
     packages=find_packages(),
-    indtall_requires = ["numpy","pandas","matplotlib","seabor"]
+    install_requires = ["numpy","pandas","matplotlib","seaborn"]
 )
